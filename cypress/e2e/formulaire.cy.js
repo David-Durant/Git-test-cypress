@@ -50,3 +50,4 @@ describe('register', () => {
 //     cy.get('#msgzone').should('contain', "Les informations sont incorrectes")
 //   })
 // })
+//
